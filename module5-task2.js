@@ -36,4 +36,4 @@ if(meet_mass[1] < 10 && meet_mass[1].length == 1) {
             return console.log(false)
         }
     }
-    let timeMeetBegin = getTimeMeet ('9:10', '18:30', '18:19', 10) //Вызов функции с заданными аргументами
+    let timeMeetBegin = getTimeMeet ('9:10', '18:30', '8:19', 10) //Вызов функции с заданными аргументами

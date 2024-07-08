@@ -21,7 +21,7 @@ for (let i = 0; i <= 24; i++) {              //Делаем счетчик ци�
 //console.table(mass_id);
 return mass_id;
 }
-let d = fff(1, 25);
+let d = fff(1, 27);
 console.table(d)
 
 
